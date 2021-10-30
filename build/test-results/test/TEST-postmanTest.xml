@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="postmanTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-30T22:38:38" hostname="DESKTOP-HNOC113" time="4.745">
+  <properties/>
+  <testcase name="postmanTest()" classname="postmanTest" time="4.745"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
